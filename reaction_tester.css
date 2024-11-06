@@ -1,0 +1,8 @@
+	#shape{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	cursor: pointer;
+	position: absolute;
+	display: none;
+}
